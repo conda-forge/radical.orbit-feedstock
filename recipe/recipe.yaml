@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.6.0"
+  version: "0.7.0"
 
 package:
   name: radical.orbit
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/radical.orbit/radical_orbit-${{ version }}.tar.gz
-  sha256: fcceba51f060ced0bc4d099e8588c1699c867701413a968adeb3deef13c1679c
+  sha256: 261e62effd8b8fcc67f32c2b7dde5b92779cdbf47ba6320bb862ad9b1f1060ce
 
 build:
   number: 0
